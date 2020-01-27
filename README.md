@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 - [Megha Jakhotia](https://github.com/MeghaJakhotia)
-- Nikita Luthra
+- [Nikita Luthra](https://github.com/nikitaluthra)
 - [Yash Kapadia](https://github.com/yashkapadia)
 
 ```
