@@ -1,6 +1,5 @@
-setwd("E:/Megha/X")
 #Reading the input data set
-Inp <- read.csv("Input.txt",col.names = c("V1","V2", "V3", "V4", "V5", "V6","V7"), sep=",")
+Inp <- read.csv("./Input.txt",col.names = c("V1","V2", "V3", "V4", "V5", "V6","V7"), sep=",")
 library('caret')
 library('e1071')
 #We need to set the seed so that the index values generated for partition are constant on every run
